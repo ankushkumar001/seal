@@ -1,2 +1,4 @@
 hello my name is ankush kumar 
 I am creating repository
+in git cmd and git hub
+git hub and git cmd the are same platforms
